@@ -1,3 +1,10 @@
+keeper (0.1.1+ubports) xenial; urgency=medium
+
+  * Import to UBports
+  * Revert changes to use older UAL api
+
+ -- Dan Chapman <dan@ubports.com>  Fri, 12 Jan 2018 10:35:44 +0000
+
 keeper (0.1.0+17.04.20170213.1-0ubuntu1) zesty; urgency=medium
 
   [ Charles Kerr, Xavi Garcia, Xavi Garcia Mena ]
